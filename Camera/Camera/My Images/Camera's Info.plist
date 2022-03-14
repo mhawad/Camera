@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>NSCameraUsageDescription</key>
+	<string>Would like to use your camera $(Camera_App) camera use</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Would like to use your photo</string>
+	<key>CLIENT_ID</key>
+	<string>17403530556-7ofo2tjvsib8hf1rvn4fl2v2n2f1fjg1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.17403530556-7ofo2tjvsib8hf1rvn4fl2v2n2f1fjg1</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBAa2r6ghrUbIQuMpEBuBwNAxhvTM3RrjU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>17403530556</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mirna.Camera</string>
+	<key>PROJECT_ID</key>
+	<string>twittertutorial-9efab</string>
+	<key>STORAGE_BUCKET</key>
+	<string>twittertutorial-9efab.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:17403530556:ios:cc9eb16f45b301fc072239</string>
+</dict>
+</plist>
